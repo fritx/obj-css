@@ -1,0 +1,19 @@
+{
+  "name": "obj-css",
+  "version": "0.0.1",
+  "description": "Parse js obj model to css",
+  "scripts": {
+    "test": "node test/run"
+  },
+  "repository": "git@github.com:fritx/obj-css.git",
+  "keywords": [
+    "css",
+    "obj",
+    "parse",
+    "convert",
+    "model"
+  ],
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
+}
